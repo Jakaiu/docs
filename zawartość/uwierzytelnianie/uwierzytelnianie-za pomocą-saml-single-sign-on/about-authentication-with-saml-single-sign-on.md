@@ -8,7 +8,7 @@ redirect_from:
 versions:
   ghae: '*'
   ghec: '*'
-topics:
+topics:/jur/
   - SSO
 shortTitle: SAML single sign-on
 ---
